@@ -1,0 +1,22 @@
+TIC TAC TOE GAME*
+1. Multiplayer (Player vs Player)
+2. Single Player (Player vs Computer)
+Enter your choice: 1
+
+Choose a grid:
+1. 3x3 (Win = 3 in a row)
+2. 5x5 (Win = 4 in a row)
+3. 7x7 (Win = 5 in a row)
+Choose Your grid: 1
+
+ 1 |  2 |  3
+---+---+---
+ 4 |  5 |  6
+---+---+---
+ 7 |  8 |  9
+
+Player 1 (X) enter slot: 5
+...
+
+Player 2 wins!
+Do you want to play again? (y/n):
